@@ -1,3 +1,24 @@
+.body {
+  margin-bottom: 1px;
+  background-color: #fffb00;
+}
+
+.herosection {
+  overflow: hidden;
+  height: 700px;
+  margin-top: 0px;
+  background-image: url('../images/Untitled-9.png'), url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-position: 50% 50%, 0px 0px;
+  background-size: cover, 125px;
+  background-repeat: repeat, repeat;
+  background-attachment: scroll, scroll;
+}
+
+.container {
+  padding-top: 132px;
+  padding-left: 20px;
+}
+
 .heading {
   width: 300px;
   font-family: Roboto, sans-serif;
